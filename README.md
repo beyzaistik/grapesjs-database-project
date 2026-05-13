@@ -1,3 +1,8 @@
+##  Canlı Önizleme
+Projeyi tarayıcıda görüntülemek için: [Buraya Tıklayın](https://beyzaistik.github.io/grapesjs-database-project/)
+
+> **Not:** GitHub Pages üzerinde PHP ve Veritabanı desteği bulunmadığı için "Kaydet" ve "Yükle" fonksiyonları sadece yerel sunucuda (XAMPP) tam performanslı çalışmaktadır. Bu link üzerinden arayüzü ve tasarım araçlarını inceleyebilirsiniz.
+
 #  GrapesJS Masterclass: Veritabanı Entegrasyonlu Web Tasarım Ekosistemi
 
 Bu proje, modern web geliştirme süreçlerinde kullanılan **Düşük Kodlu (Low-Code)** platformların çalışma mantığını simüle eden, tam donanımlı bir web sayfası editörüdür. Kullanıcıların herhangi bir programlama dili bilmesine gerek kalmadan, sürükle-bırak yöntemiyle profesyonel arayüzler oluşturmasına ve bu verileri kalıcı olarak **MySQL** üzerinde saklamasına olanak tanır.
